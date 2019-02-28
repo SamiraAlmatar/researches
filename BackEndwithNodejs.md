@@ -1,7 +1,7 @@
  # Back-End with [Node.js](https://nodejs.org/en/).
 
 ### what is the [Back-end](https://www.codecademy.com/articles/back-end-architecture):
-The back-end is the code that runs on the server, that receives requests from the clients, and contains the logic to send the appropriate data back to the client using [HTTP](#http). The back-end also includes the database, which will persistently store all of the data for the application. This article focuses on the hardware and software on the server-side that make this possible.
+The back-end is the code that runs on the server, that receives requests from the clients, and contains the logic to send the appropriate data back to the client using [HTTP](#http). The back-end also includes the database, which will persistently store all of the data for the application.
 
 
 ![](http://www.dailywebsolutions.com/images/client-server-architecture.png)
